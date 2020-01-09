@@ -1,2 +1,1 @@
-# Campus-Map
-Find the shortest path from any building to another on Northeastern University's main campus
+Find the shortest path from any building to another on Northeastern University's main campus using Northeastern's campus map, distances from any labeled alphanumeric point to another were calculated using google maps, then converted to a readable format to perform graph search. The user then inputs two points and the shortest path is calculated! No more guessing which way is faster to get to class when you are late :)
